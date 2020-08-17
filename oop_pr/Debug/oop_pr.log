@@ -1,0 +1,30 @@
+﻿  oop_pr.cpp
+  Compiler.cpp
+D:\oop projekat\msvsproject\oop_pr\Compiler.cpp(83,20): warning C4018:  '<': signed/unsigned mismatch
+  Machine.cpp
+D:\oop projekat\msvsproject\oop_pr\Compiler.cpp(102,21): warning C4018:  '<': signed/unsigned mismatch
+D:\oop projekat\msvsproject\oop_pr\Machine.cpp(103,20): warning C4018:  '<': signed/unsigned mismatch
+D:\oop projekat\msvsproject\oop_pr\Machine.cpp(294,20): warning C4018:  '<': signed/unsigned mismatch
+D:\oop projekat\msvsproject\oop_pr\Machine.cpp(312,20): warning C4018:  '<': signed/unsigned mismatch
+D:\oop projekat\msvsproject\oop_pr\Machine.cpp(208,40): warning C4101:  'e': unreferenced local variable
+  MemorySingleton.cpp
+D:\oop projekat\msvsproject\oop_pr\Machine.cpp(271,39): warning C4101:  'e': unreferenced local variable
+D:\oop projekat\msvsproject\oop_pr\MemorySingleton.cpp(61,36): warning C4101:  'e': unreferenced local variable
+D:\oop projekat\msvsproject\oop_pr\MemorySingleton.cpp(150,20): warning C4018:  '<': signed/unsigned mismatch
+  Operation.cpp
+D:\oop projekat\msvsproject\oop_pr\MemorySingleton.cpp(161,20): warning C4018:  '<': signed/unsigned mismatch
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(35,66): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(36,71): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(113,66): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(114,71): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(191,66): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(192,71): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(267,65): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+  TEST.cpp
+  Writer.cpp
+D:\oop projekat\msvsproject\oop_pr\Operation.cpp(268,70): warning C4244:  'argument': conversion from 'Time' to 'int', possible loss of data
+  Generating Code...
+D:\oop projekat\msvsproject\oop_pr\Writer.cpp(31,20): warning C4018:  '<': signed/unsigned mismatch
+D:\oop projekat\msvsproject\oop_pr\Writer.cpp(31,20): warning C4018: D:\oop projekat\msvsproject\oop_pr\Compiler.cpp(52) : warning C4715: 'precedence': not all control paths return a value
+SimulationEngine.lib(SimEng.obj) : warning LNK4099: PDB 'ā' was not found with 'SimulationEngine.lib(SimEng.obj)' or at 'ā'; linking object as if no debug info
+  oop_pr.vcxproj -> D:\oop projekat\msvsproject\Debug\oop_pr.exe

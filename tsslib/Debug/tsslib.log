@@ -1,0 +1,12 @@
+﻿  CrossSem.cpp
+  FlowSink.cpp
+  FlowSource.cpp
+  Pipe.cpp
+  QueServer.cpp
+  Switch1to3.cpp
+  VModelChecker.cpp
+  VModelDocumenter.cpp
+  VSimReporter.cpp
+  VTxtOutputGen.cpp
+  Generating Code...
+  tsslib.vcxproj -> C:\Users\Martin\Desktop\oop projekat\msvsproject\Debug\tsslib.lib
