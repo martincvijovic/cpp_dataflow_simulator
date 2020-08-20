@@ -9,3 +9,4 @@ There is A LOT to improve ( some improvements were already made in the laborator
 1. Cleaner code, less confusing var/function/method names, more commments (OOP style)
 2. .txt parsing is not working with float values, only integers.
 3. Machine.cpp's code needs to be fully rewritten and the Event creation should only rely upon the virtual Scheduler::notify() method
+4. MemorySinleton.cpp -> Memory.cpp (also instead of 2 vectors, use std::unordered_map<std::string, double>
