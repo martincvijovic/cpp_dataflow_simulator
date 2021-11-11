@@ -204,27 +204,6 @@ void Compiler::Compile(ifstream& program, string name) //works like charm, i thi
 			}
 			roottemp = qq.top();
 		}
-		/*if (EQFLAG)
-		{
-			TreeNode* rootnew = new TreeNode();
-			rootnew->value = "=";
-			TreeNode* leftnew = new TreeNode();
-			leftnew->value = *(postfix.begin());
-			rootnew->left = leftnew;
-			rootnew->right = roottemp;
-			roottemp = rootnew;
-		}*/
-		//lets test our tree
-		//cout << endl << endl;
-		//printPostorder(roottemp->right);
-		
-		/*THIS IS OUR INTERMEDIATE FORM*/
-		
-		//cout << endl << endl;
-
-	
-
-
 
 		stack<TreeNode*> o;
 		for (list<string>::iterator i = postfix.begin(); i != postfix.end(); i++)
